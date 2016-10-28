@@ -1,0 +1,1152 @@
+[INFO  - 2016-10-28T17:44:41.061Z] GhostDriver - Main - running on port 14702
+[INFO  - 2016-10-28T17:44:41.427Z] Session [34657d00-9d36-11e6-a138-d920f48a5693] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T17:44:41.427Z] Session [34657d00-9d36-11e6-a138-d920f48a5693] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T17:44:41.427Z] Session [34657d00-9d36-11e6-a138-d920f48a5693] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T17:44:41.428Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 34657d00-9d36-11e6-a138-d920f48a5693
+[INFO  - 2016-10-28T17:44:41.556Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T17:53:31.416Z] GhostDriver - Main - running on port 28397
+[INFO  - 2016-10-28T17:53:31.481Z] Session [70552850-9d37-11e6-9698-59cf78d7b0ce] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T17:53:31.481Z] Session [70552850-9d37-11e6-9698-59cf78d7b0ce] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T17:53:31.482Z] Session [70552850-9d37-11e6-9698-59cf78d7b0ce] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T17:53:31.482Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 70552850-9d37-11e6-9698-59cf78d7b0ce
+[INFO  - 2016-10-28T17:53:35.295Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T17:54:16.362Z] GhostDriver - Main - running on port 28165
+[INFO  - 2016-10-28T17:54:16.417Z] Session [8b1dd8d0-9d37-11e6-9309-2f52e2df9aca] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T17:54:16.417Z] Session [8b1dd8d0-9d37-11e6-9309-2f52e2df9aca] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T17:54:16.417Z] Session [8b1dd8d0-9d37-11e6-9309-2f52e2df9aca] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T17:54:16.417Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8b1dd8d0-9d37-11e6-9309-2f52e2df9aca
+[INFO  - 2016-10-28T17:54:20.035Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T17:54:44.798Z] GhostDriver - Main - running on port 20805
+[INFO  - 2016-10-28T17:54:44.868Z] Session [9c132000-9d37-11e6-9b0a-f31feb4c08ce] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T17:54:44.868Z] Session [9c132000-9d37-11e6-9b0a-f31feb4c08ce] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T17:54:44.869Z] Session [9c132000-9d37-11e6-9b0a-f31feb4c08ce] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T17:54:44.869Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9c132000-9d37-11e6-9b0a-f31feb4c08ce
+[INFO  - 2016-10-28T17:54:52.124Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:06:20.950Z] GhostDriver - Main - running on port 27174
+[INFO  - 2016-10-28T18:06:21.023Z] Session [3b03f2b0-9d39-11e6-8c0d-f32fc31748f4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:06:21.023Z] Session [3b03f2b0-9d39-11e6-8c0d-f32fc31748f4] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:06:21.023Z] Session [3b03f2b0-9d39-11e6-8c0d-f32fc31748f4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:06:21.023Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3b03f2b0-9d39-11e6-8c0d-f32fc31748f4
+[INFO  - 2016-10-28T18:06:31.975Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:10:19.182Z] GhostDriver - Main - running on port 17044
+[INFO  - 2016-10-28T18:10:19.248Z] Session [c901e4a0-9d39-11e6-8292-99deed8ccfcc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:10:19.248Z] Session [c901e4a0-9d39-11e6-8292-99deed8ccfcc] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:10:19.249Z] Session [c901e4a0-9d39-11e6-8292-99deed8ccfcc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:10:19.249Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c901e4a0-9d39-11e6-8292-99deed8ccfcc
+[INFO  - 2016-10-28T18:10:38.881Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:19:26.827Z] GhostDriver - Main - running on port 4628
+[INFO  - 2016-10-28T18:19:26.891Z] Session [0f6de370-9d3b-11e6-a93e-21174a767441] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:19:26.891Z] Session [0f6de370-9d3b-11e6-a93e-21174a767441] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:19:26.891Z] Session [0f6de370-9d3b-11e6-a93e-21174a767441] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:19:26.892Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0f6de370-9d3b-11e6-a93e-21174a767441
+[INFO  - 2016-10-28T18:19:47.495Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:22:12.630Z] GhostDriver - Main - running on port 30859
+[INFO  - 2016-10-28T18:22:12.656Z] Session [723b9ec0-9d3b-11e6-a147-a53405d51bb3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:22:12.656Z] Session [723b9ec0-9d3b-11e6-a147-a53405d51bb3] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:22:12.656Z] Session [723b9ec0-9d3b-11e6-a147-a53405d51bb3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:22:12.656Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 723b9ec0-9d3b-11e6-a147-a53405d51bb3
+[INFO  - 2016-10-28T18:22:33.100Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:26:40.431Z] GhostDriver - Main - running on port 23395
+[INFO  - 2016-10-28T18:26:40.494Z] Session [11e074a0-9d3c-11e6-b10d-212c6e1165dc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:26:40.494Z] Session [11e074a0-9d3c-11e6-b10d-212c6e1165dc] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:26:40.495Z] Session [11e074a0-9d3c-11e6-b10d-212c6e1165dc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:26:40.496Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11e074a0-9d3c-11e6-b10d-212c6e1165dc
+[INFO  - 2016-10-28T18:27:00.902Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:33:57.725Z] GhostDriver - Main - running on port 21202
+[INFO  - 2016-10-28T18:33:57.738Z] Session [167e7150-9d3d-11e6-b298-730fb103db45] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:33:57.739Z] Session [167e7150-9d3d-11e6-b298-730fb103db45] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:33:57.740Z] Session [167e7150-9d3d-11e6-b298-730fb103db45] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:33:57.740Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 167e7150-9d3d-11e6-b298-730fb103db45
+[INFO  - 2016-10-28T18:34:18.300Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:37:15.005Z] GhostDriver - Main - running on port 21414
+[INFO  - 2016-10-28T18:37:15.067Z] Session [8c1c7560-9d3d-11e6-91a9-8d731bc1be5c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:37:15.067Z] Session [8c1c7560-9d3d-11e6-91a9-8d731bc1be5c] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:37:15.067Z] Session [8c1c7560-9d3d-11e6-91a9-8d731bc1be5c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:37:15.067Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8c1c7560-9d3d-11e6-91a9-8d731bc1be5c
+[INFO  - 2016-10-28T18:37:26.399Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:57:00.587Z] GhostDriver - Main - running on port 4388
+[INFO  - 2016-10-28T18:57:00.624Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:57:00.625Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:57:00.625Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:57:00.625Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4ec240c0-9d40-11e6-9281-176c3a51c039
+[ERROR - 2016-10-28T18:57:11.292Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T18:57:11.293Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T18:57:15.477Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T18:57:15.477Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T18:57:19.915Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T18:57:19.916Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T18:57:24.772Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T18:57:24.776Z] Session [4ec240c0-9d40-11e6-9281-176c3a51c039] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[INFO  - 2016-10-28T18:57:25.056Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T18:59:57.905Z] GhostDriver - Main - running on port 7544
+[INFO  - 2016-10-28T18:59:58.053Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T18:59:58.053Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T18:59:58.053Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T18:59:58.053Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b883c510-9d40-11e6-b19e-f94f28a89741
+[ERROR - 2016-10-28T19:00:08.674Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:00:08.674Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:00:12.906Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:00:12.907Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:00:17.350Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:00:17.351Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:00:22.462Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:00:22.467Z] Session [b883c510-9d40-11e6-b19e-f94f28a89741] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[INFO  - 2016-10-28T19:00:22.696Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T19:02:12.722Z] GhostDriver - Main - running on port 6073
+[INFO  - 2016-10-28T19:02:12.849Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T19:02:12.849Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T19:02:12.850Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T19:02:12.850Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08dbb3b0-9d41-11e6-b2b9-e3801cc3d813
+[ERROR - 2016-10-28T19:02:23.812Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:02:23.812Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:02:28.108Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:02:28.108Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:02:32.684Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:02:32.684Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:02:37.411Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:02:37.414Z] Session [08dbb3b0-9d41-11e6-b2b9-e3801cc3d813] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[INFO  - 2016-10-28T19:02:37.602Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T19:03:34.520Z] GhostDriver - Main - running on port 23159
+[INFO  - 2016-10-28T19:03:34.652Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T19:03:34.653Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T19:03:34.653Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T19:03:34.653Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 399e2780-9d41-11e6-bdbd-53d0e9eda16d
+[ERROR - 2016-10-28T19:03:45.306Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:03:45.307Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[ERROR - 2016-10-28T19:03:49.608Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.onError - msg: Error: [$parse:syntax] Syntax Error: Token 'are' is an unexpected token at column 38 of the expression [ptorQuestionTextA>
+            There are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=] starting at [are times when I let others take responsibility for solving the problem.
+          </div>
+        </div>  
+        <div class=].
+http://errors.angularjs.org/1.5.3/$parse/syntax?p0=are&p1=is%20an%20unexpected%20token&p2=38&p3=ptorQuestionTextA%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20There%20are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D&p4=are%20times%20when%20I%20let%20others%20take%20responsibility%20for%20solving%20the%20problem.%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%20%20%3C%2Fdiv%3E%20%20%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D
+throwError@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27383:91
+ast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27149:22
+compile@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:27597:34
+parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28484:36
+$parse@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:28615:44
+$watch@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29828:25
+link@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:37238:21
+invokeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22998:15
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22397:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21711:24
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+nodeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:22392:35
+compositeLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21708:23
+publicLinkFn@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:21588:45
+appendViewElement@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59915:11
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57901:58
+init@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:57821:26
+render@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59767:18
+register@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:59725:16
+updateView@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65400:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65377:21
+$broadcast@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30723:33
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:52162:32
+processQueue@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29132:30
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:29148:39
+$eval@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30400:28
+$digest@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30216:36
+$apply@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:30508:31
+https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:65428:19
+defaultHandlerWrapper@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16792:15
+eventHandler@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:16780:23
+dispatchEvent@[native code]
+triggerMouseEvent@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2953:20
+tapClick@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:2942:20
+tapMouseUp@https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:3018:13
+dispatchEvent@[native code]
+U
+$
+$
+bh
+gh
+sh
+
+
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/webelement_request_handler.js:405:47
+_execFuncAndWaitForLoadDecorator@phantomjs://code/session.js:212:23
+_postClickCommand@phantomjs://code/webelement_request_handler.js:403:42
+_handle@phantomjs://code/webelement_request_handler.js:90:30
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/session_request_handler.js:120:42
+_reroute@phantomjs://code/request_handler.js:61:20
+_handle@phantomjs://code/router_request_handler.js:78:46 <div class="item item-text-wrap" ng-class="ptorQuestionTextA&gt;
+            {{questionA.Text}}
+          &lt;/div&gt;
+        &lt;/div&gt;  
+        &lt;div class=" card"="" ng-click="buttonClicked('B')">
+[ERROR - 2016-10-28T19:03:49.608Z] Session [399e2780-9d41-11e6-bdbd-53d0e9eda16d] - page.onError - stack:
+  (anonymous function) (https://tkttest-phortonssf.c9users.io:8081/lib/ionic/js/ionic.bundle.js:26799)
+[INFO  - 2016-10-28T19:03:50.640Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T19:07:52.673Z] GhostDriver - Main - running on port 6336
+[INFO  - 2016-10-28T19:07:52.983Z] Session [d3987d40-9d41-11e6-af96-c94fd73c7342] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T19:07:52.984Z] Session [d3987d40-9d41-11e6-af96-c94fd73c7342] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T19:07:52.984Z] Session [d3987d40-9d41-11e6-af96-c94fd73c7342] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T19:07:52.984Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d3987d40-9d41-11e6-af96-c94fd73c7342
+[INFO  - 2016-10-28T19:08:44.430Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-10-28T19:10:03.338Z] GhostDriver - Main - running on port 11063
+[INFO  - 2016-10-28T19:10:03.597Z] Session [21727390-9d42-11e6-9321-c5fd5fae9b67] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T19:10:03.597Z] Session [21727390-9d42-11e6-9321-c5fd5fae9b67] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T19:10:03.598Z] Session [21727390-9d42-11e6-9321-c5fd5fae9b67] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T19:10:03.598Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 21727390-9d42-11e6-9321-c5fd5fae9b67
+[INFO  - 2016-10-28T19:11:26.277Z] ShutdownReqHand - _handle - About to shutdown

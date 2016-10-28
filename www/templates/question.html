@@ -1,0 +1,24 @@
+<ion-view view-title="Question #{{qNumber}}"  hide-back-button="true">
+    <ion-nav-buttons side="left">
+      <button class="button button-icon button-clear icon ion-arrow-left-c" ng-click="goBack()">
+      </button>
+    </ion-nav-buttons>
+    <ion-content class="padding">
+        <div ng-class="ptorQuestionGoA" class="card" ng-click="buttonClicked('A')">
+          <div class="item item-divider">
+            Option A
+          </div>
+          <div class="item item-text-wrap" ng-class="ptorQuestionTextA">
+            {{questionA.Text}}
+          </div>
+        </div>  
+        <div class="card" ng-click="buttonClicked('B')" ng-class="ptorQuestionGoB">
+          <div class="item item-divider">
+            Option B
+          </div>
+          <div class="item item-text-wrap" ng-class="ptorQuestionTextB" >
+            {{questionB.Text}}
+          </div>
+        </div>
+    </ion-content>
+</ion-view>
