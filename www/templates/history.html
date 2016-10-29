@@ -1,0 +1,20 @@
+<!--History View-->
+<ion-view view-title="My Results">
+    <ion-content>
+        <ion-list>
+          <!--ng-repeat="test in tests" What this does is that for every element of the array tests 
+          (starting from the first element), there will be an object, called test in this case, 
+          with the information of such object.-->
+          <ion-item ng-repeat="test in tests" ng-click="goToResult(test)">
+            Test {{$index+1}}
+            
+            <!--The span with the class item-note will display whatever is in it to the right of the list element, 
+            as described in ionic documentation.-->
+            <span class="item-note">
+                <!--Date Filter-->
+              {{test.createDate | date:'dd-MMM-yyyy hh:mm a'}}
+            </span>
+          </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

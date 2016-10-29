@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 /* global angular*/
-angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'TKTestAnswers'])
+angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'TKTestAnswers', 'chart.js', 'TKResultsButton'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -26,6 +26,8 @@ angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'T
     }
   });
 })
+
+// Lobby View Template
 .config(function($stateProvider, $urlRouterProvider) {
   $urlRouterProvider.otherwise('/');
   $stateProvider
@@ -34,6 +36,8 @@ angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'T
     templateUrl: 'templates/lobby.html',
     controller: 'LobbyCtrl'
   })
+  
+  //Questions View Template
   .state('question', {
     url: '/question:questionID',
     templateUrl: 'templates/question.html',
@@ -42,6 +46,24 @@ angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'T
       testInfo: function($stateParams, TKTestQuestionService) {
         return TKTestQuestionService.getQuestion($stateParams.questionID);
       }
+    }})
+    // Results View Template
+    .state('results', {
+      url: '/results',
+      templateUrl: 'templates/results.html',
+      controller: 'ResultsCtrl'
+    })
+    
+    // History View Template
+    .state('history', {
+      url: '/history',
+      templateUrl: 'templates/history.html',
+      controller: 'HistoryCtrl',
+      resolve: {
+        tests: ['TKAnswersService', function(TKAnswersService) {
+          return TKAnswersService.getTests();
+      }]
     }
+  })
 });
-});
+
