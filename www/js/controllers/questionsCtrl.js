@@ -8,13 +8,19 @@ function($scope, $stateParams, testInfo, TKAnswersService, $state, $ionicHistory
     $scope.ptorQuestionTextB = 'ptor-question-text-b' + $stateParams.questionID;
     $scope.qNumber = $stateParams.questionID;
     
+    //testInfo will hold the pair of questions to display.
+    /* Here we iterate over the questions, gotten in the "resolve" step, and assign 
+each question to a $scope variable. With this assignment, the html page will render correctly.*/
     testInfo.forEach(function(infoDict) {
      if(infoDict.Answer_ID === "A")
           $scope.questionA = infoDict;
      if(infoDict.Answer_ID === "B")
           $scope.questionB = infoDict;
     });
-   $scope.buttonClicked = function ( option ) {
+   
+   /*This is the action that triggers whenever button A or B is clicked.
+   The characters A or B are passed to the function */
+  $scope.buttonClicked = function ( option ) {
         var category = $scope["question" + option].Style;
         TKAnswersService.saveAnswer(category);
        
@@ -28,6 +34,10 @@ function($scope, $stateParams, testInfo, TKAnswersService, $state, $ionicHistory
           });
         }
     };
+    /* This is the custom action that will trigger when we click the back button. We
+    need to check if we are not in the beginning, otherwise, there would be an error. 
+    If it's  not the first question, then we call the "eraseLastAnswer" method to effectively 
+    erase our last answer. In either case, we call goBack() in $ionicHistory to return to the previous page.*/
     $scope.goBack = function() {
       if($scope.qNumber >1)
         TKAnswersService.eraseLastAnswer();

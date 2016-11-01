@@ -14,7 +14,7 @@ angular.module('starter.controllers')
        // Chart Options
         $scope.options = {
             scaleIntegersOnly: true,
-            animation: false,
+            animation: true,
             responsive:true,
             maintainAspectRatio: false,
             scaleOverride: true,

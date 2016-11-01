@@ -37,16 +37,22 @@
     <script src="lib/Chart/js/Chart.js"></script>
     <script src="lib/Chart/js/angular-chart.js"></script>
     
+    
     <script src="js/controllers/starterControllers.js"></script>
+    
     <script src="js/controllers/questionsCtrl.js"></script>
     <script src="js/controllers/LobbyCtrl.js"></script>
+   
     <script src="js/services/questionsService.js"></script>
     <script src="js/services/TKTestAnswersServ.js"></script>
     <script src="js/controllers/resultsCtrl.js"></script>
     <script src="js/controllers/historyCtrl.js"></script>
     <script src="js/services/TKResultsButtonService.js"></script>
-
+     <script src="js/controllers/RegisterCtrl.js"></script>
     <!-- your app's js -->
+    <script src="js/RESTServices/SSFUsersRest.js"></script>
+    <script src="js/RESTServices/QuestionsRest.js"></script>
+    <script src="js/RESTServices/TestResultsRest.js"></script>
     <script src="js/app.js"></script>
   </head>
   <body ng-app="starter">
@@ -55,6 +61,7 @@
 <ion-nav-back-button>
 </ion-nav-back-button>
 </ion-nav-bar>
+<!--Where the state changes-->
 <ion-nav-view></ion-nav-view>
 
   </body>
