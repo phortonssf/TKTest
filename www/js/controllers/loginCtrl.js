@@ -13,7 +13,7 @@ angular.module('starter.controllers')
                 .then(function(response) {
                     //store id/token to local storage
                     $window.localStorage.userId = response.data.userId;
-                    $window.localStorage.id = response.data.token;
+                    $window.localStorage.token = response.data.id;
                     
                     //data is null, alert user
                     if (response.data === null) {

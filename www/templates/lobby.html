@@ -1,8 +1,19 @@
 <ion-view view-title="Menu">
+    <ion-nav-buttons side="right">
+        <!--ng-show that will display or hide the Menu button based on $scope.shouldShowButton.-->
+        <button class="button" ng-click="logout()" >
+        Logout
+        </button>
+    </ion-nav-buttons>
     <ion-content class="padding">
+        
+    </ion-nav-buttons>
+        
+        
         <button class="ptor-lobby-go-question button button-block button-positive" ng-click=goToTest()>
           Take test
         </button>
+        
             <!--ui-sref="history" will send the user to the history page when clicked.-->
         <button class="button button-block button-positive ui-sref=history">
           My Results

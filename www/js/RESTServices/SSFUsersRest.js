@@ -1,6 +1,6 @@
 angular.module("RESTServices", [])
-    .service('SSFUsersRest', ['$http',
-        function($http) {
+    .service('SSFUsersRest', ['$http', '$window',
+        function($http,$window) {
             var SSFUsersRest = this;
             SSFUsersRest.post = function(newUserData) {
                 return $http({
@@ -15,7 +15,19 @@ angular.module("RESTServices", [])
                     method: "POST",
                     data: UserData
                 });
-            }; 
+            };
+            SSFUsersRest.logout = function(){
+                return $http({
+                    headers: {
+                        Authorization: $window.localStorage.token
+                    },
+                    url: "https://tktestbackend-phortonssf.c9users.io:8080/api/SSFUsers/logout",
+                    method: "POST",
+                    
+                    
+
+                });
+            }
         }
         
     ]);
