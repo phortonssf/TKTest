@@ -9,6 +9,13 @@ angular.module("RESTServices", [])
                     data: newUserData
                 });
             };
-            
+          SSFUsersRest.login = function(UserData) {
+                return $http({
+                    url: "https://tktestbackend-phortonssf.c9users.io:8080/api/SSFUsers/login",
+                    method: "POST",
+                    data: UserData
+                });
+            }; 
         }
+        
     ]);
