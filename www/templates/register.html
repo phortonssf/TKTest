@@ -5,14 +5,15 @@
        <form name="registerForm" ng-submit="signupForm(registerForm)" novalidate>
                
                <!--label element is necessary for ionic to properly apply it’s CSS styles -->
-               <label class="item item-input" ng-class="{ 'has-errors' : registerForm.email.$invalid && registerForm.$submitted}">
+
+               <label class="item item-input">
+                   <input name="first-name" type="text" placeholder="First Name" ng-model="user.firstName" required>
+               </label>
+               <label class="item item-input">
+                   <input name="last-name" type="text" placeholder="Last Name" ng-model="user.lastName" required>
+               </label>
+                <label class="item item-input" ng-class="{ 'has-errors' : registerForm.email.$invalid && registerForm.$submitted}">
                    <input name="email" type="email" placeholder="Email" ng-model="user.email" required>
-               </label>
-               <label class="item item-input">
-                   <input name="first-name" type="text" placeholder="First Name" ng-model="user.first" required>
-               </label>
-               <label class="item item-input">
-                   <input name="last-name" type="text" placeholder="Last Name" ng-model="user.last" required>
                </label>
                 <label class="item item-input">
                    <input name="organization" type="text" placeholder="Organization" ng-model="user.organization">

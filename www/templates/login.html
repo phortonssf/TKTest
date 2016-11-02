@@ -1,0 +1,20 @@
+<ion-view view-title="Login">
+   <ion-content class="padding">
+       <!--creates something most relatable to a variable that can be referenced within the HTML,
+       ng-submit calls teh funtion signupForm-->
+       <form name="loginForm" ng-submit="login(loginForm)" novalidate>
+               
+               <!--label element is necessary for ionic to properly apply it’s CSS styles -->
+               <label class="item item-input" ng-class="{ 'has-errors' : registerForm.email.$invalid && registerForm.$submitted}">
+                   <input name="email" type="email" placeholder="Email" ng-model="user.email" required>
+               </label>
+               
+               <label class="item item-input">
+                   <input name="password" type="password" placeholder="Password" ng-model="user.password" required>
+               </label>
+               <button class="button button-full button-positive"  type="submit">
+                    Login
+               </button>
+        </form>
+   </ion-content>
+</ion-view>
