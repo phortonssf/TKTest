@@ -23,11 +23,8 @@ angular.module("RESTServices", [])
                     },
                     url: "https://tktestbackend-phortonssf.c9users.io:8080/api/SSFUsers/logout",
                     method: "POST",
-                    
-                    
-
-                });
+                    });
+                }
             }
-        }
         
     ]);

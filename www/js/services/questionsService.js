@@ -1,10 +1,11 @@
 /* global angular */
 angular.module('TKTestQuestions', [])
-.service('TKTestQuestionService', ['$http', function ($http){
+.service('TKTestQuestionService', ['$http', 'QuestionsRest', '$window', 
+function ($http, QuestionsRest, $window){
     var service = this;
     var questions = [];
     service.all = function () {
-        $http.get('files/questions.json')
+        QuestionsRest.results($window.localStorage['token'])
         .then(function(response){
             if(response.status == 200)
             {
