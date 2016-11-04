@@ -1,6 +1,6 @@
 /* global angular*/
 angular.module('TKTestAnswers',[])
-.service('TKAnswersService',['$window', function ($window) {
+.service('TKAnswersService',['$window', 'TestResultsRest', function ($window, TestResultsRest) {
     var service = this;
     var answerCategories = {
         "competing": 0,
@@ -14,6 +14,13 @@ angular.module('TKTestAnswers',[])
     service.getAnswers = function() {
         return answerCategories;
     };
+  
+ 
+  
+
+  
+    
+  
    
     service.saveAnswer = function(answerCategory) {
         answerCategories[answerCategory.toLowerCase()]++;
@@ -32,10 +39,16 @@ angular.module('TKTestAnswers',[])
         answerCategories[categoriesStack.pop().toLowerCase()]--;
     };
    
-    service.saveTest = function(test) {
-        var tempTests = $window.localStorage.tests === undefined ? [] : JSON.parse($window.localStorage.tests);
+   
+   
+   
+   
+    service.saveTest = function(test, token) {
+         TestResultsRest.save(token, test)
+         
+        /*var tempTests = $window.localStorage.tests === undefined ? [] : JSON.parse($window.localStorage.tests);
         tempTests.push(test);
-        $window.localStorage.tests = JSON.stringify(tempTests);
+        $window.localStorage.tests = JSON.stringify(tempTests);*/
     };
     //  retrieves the saved tests, local storage
     service.getTests = function() {

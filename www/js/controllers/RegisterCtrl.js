@@ -62,6 +62,7 @@ angular.module('starter.controllers')
                     $window.localStorage.userId = response.data.id;
                     $window.localStorage.token = response.data.token;
 
+
                     //data is null, alert user
                     if (response.data === null) {
                         return alert("User is Offline");

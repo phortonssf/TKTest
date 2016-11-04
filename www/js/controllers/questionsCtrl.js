@@ -1,7 +1,8 @@
 /* global angular */
 angular.module('starter.controllers')
-.controller('QuestionsCtrl',['$scope', '$stateParams', 'testInfo', 'TKAnswersService', '$state', '$ionicHistory','TKResultsButtonService',
-function($scope, $stateParams, testInfo, TKAnswersService, $state, $ionicHistory, TKResultsButtonService) {
+.controller('QuestionsCtrl',['$scope', '$stateParams', 'testInfo', 'TKAnswersService', '$state', '$ionicHistory','TKResultsButtonService', 
+'$window',
+function($scope, $stateParams, testInfo, TKAnswersService, $state, $ionicHistory, TKResultsButtonService, $window) {
     $scope.ptorQuestionGoA = 'ptor-question-go-a' + $stateParams.questionID;
     $scope.ptorQuestionGoB = 'ptor-question-go-b' + $stateParams.questionID;
     $scope.ptorQuestionTextA = 'ptor-question-text-a' + $stateParams.questionID;
@@ -43,11 +44,16 @@ each question to a $scope variable. With this assignment, the html page will ren
         TKAnswersService.eraseLastAnswer();
       $ionicHistory.goBack();
     };
+ 
+ //Is invoked when questions == 30
  function performRequest() {
     var answersDict = angular.copy(TKAnswersService.getAnswers());
     var date = new Date();
     answersDict["createDate"] = date.toUTCString();
-    TKAnswersService.saveTest(answersDict);
+    answersDict["userID"] = $window.localStorage.userId;
+    TKAnswersService.saveTest(answersDict, $window.localStorage.token);
+   
+    
     $ionicHistory.nextViewOptions({
          historyRoot: true
     });
@@ -59,3 +65,5 @@ each question to a $scope variable. With this assignment, the html page will ren
     $state.go('results');
 }
 }]);
+
+

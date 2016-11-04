@@ -5,8 +5,8 @@
 // the 2nd parameter is an array of 'requires'
 /* global angular*/
 angular.module('starter', ['ionic', 'TKTestQuestions', 'starter.controllers', 'TKTestAnswers', 'chart.js', 'TKResultsButton', 
-"RESTServices"])
-
+'RESTServices'])
+ 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     if(window.cordova && window.cordova.plugins.Keyboard) {
