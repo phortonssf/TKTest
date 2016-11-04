@@ -18,7 +18,7 @@ angular.module('starter.controllers')
                     //data is null, alert user
                     if (response.data === null) {
                         return alert("User is Offline");
-                    }   //if successful register, redirect to lobby
+                    }   //if successful register, redirect to lobby, and clear user input form
                     else if (response.status === 200) {
                         $scope.user = {};
                         $state.go('lobby');

@@ -47,8 +47,8 @@ angular.module('starter.controllers')
     
    /*global angular*/
 angular.module('starter.controllers')
-    .controller('RegisterCtrl', ['$scope', 'SSFUsersRest', '$http', '$state', '$window',
-        function($scope, SSFUsersRest, $http, $state, $window) {
+    .controller('RegisterCtrl', ['$scope', 'SSFUsersRest', '$http', '$state', '$window', '$ionicHistory',
+        function($scope, SSFUsersRest, $http, $state, $window, $ionicHistory) {
             
             $scope.user = {};
             
@@ -69,6 +69,10 @@ angular.module('starter.controllers')
                     }   //if successful register, redirect to lobby
                     else if (response.status === 200) {
                         $scope.user = {};
+                        $ionicHistory.nextViewOptions({
+                        disableBack: true,
+                        historyRoot: true
+    });
                         $state.go('lobby');
                     }
                 }, 

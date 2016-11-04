@@ -1,13 +1,17 @@
 /* global angular */
 angular.module('starter.controllers')
-.controller('LobbyCtrl',['$scope', 'TKTestQuestionService', 'TKAnswersService','$state', '$window', 'SSFUsersRest',
+.controller('LobbyCtrl',['$scope', 'TKTestQuestionService', 'TKAnswersService','$state', '$window',
+'SSFUsersRest', '$location', '$ionicHistory', 
 
-function($scope, TKTestQuestionService, TKAnswersService, $state, $window, SSFUsersRest) {
+function($scope, TKTestQuestionService, TKAnswersService, $state, $window, SSFUsersRest, $location, $ionicHistory) {
     TKTestQuestionService.all();
     // Changes state to question view on button click in lobby html
     $scope.goToTest = function(){
         TKAnswersService.resetAnswers();
            $state.go('question',{questionID:1});
+   };
+   $scope.history = function(){
+       $location.path('/history');
    };
    $scope.logout = function(){
         SSFUsersRest.logout()   
@@ -20,6 +24,10 @@ function($scope, TKTestQuestionService, TKAnswersService, $state, $window, SSFUs
                
            }
        })
-    
     }
+    $ionicHistory.nextViewOptions({
+       disableBack: true,
+       historyRoot: true
+        
+});
 }]);

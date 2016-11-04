@@ -1,6 +1,6 @@
 angular.module("RESTServices")
-.service('TestResultsRest', [ '$http',
-  function($http){
+.service('TestResultsRest', [ '$http', '$window',
+  function($http, $window){
       var TestResultsRest = this;
    //Sends and saves all test results to server
    TestResultsRest.save = function(token, test) {
@@ -19,8 +19,9 @@ angular.module("RESTServices")
            headers:{
                  Authorization: token
             },
-           url: "https://tktestbackend-phortonssf.c9users.io:8080/api/TestResults",
-           method: 'GET'
+            //Filters results to match userID
+           url: "https://tktestbackend-phortonssf.c9users.io:8080/api/TestResults?filter[where][userID]=" + $window.localStorage.userId,
+           method: 'GET' 
        });
    };
    

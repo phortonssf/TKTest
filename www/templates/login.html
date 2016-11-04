@@ -5,7 +5,7 @@
        <form name="loginForm" ng-submit="login(loginForm)" novalidate>
                
                <!--label element is necessary for ionic to properly apply it’s CSS styles -->
-               <label class="item item-input" ng-class="{ 'has-errors' : registerForm.email.$invalid && registerForm.$submitted}">
+               <label class="item item-input" ng-class="{ 'has-errors' : loginForm.email.$invalid && loginForm.$submitted}">
                    <input name="email" type="email" placeholder="Email" ng-model="user.email" required>
                </label>
                

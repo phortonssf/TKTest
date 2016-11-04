@@ -50,10 +50,25 @@ angular.module('TKTestAnswers',[])
         tempTests.push(test);
         $window.localStorage.tests = JSON.stringify(tempTests);*/
     };
-    //  retrieves the saved tests, local storage
-    service.getTests = function() {
-         return $window.localStorage.tests ? JSON.parse($window.localStorage.tests): [];
-    };
+    //  retrieves the saved tests from server
+   
+   service.getTests = function() {
+                return TestResultsRest.getAll($window.localStorage['token'])
+                    //If successful return test results
+                    .then(function(response) {
+                        if (response.status == 200) {
+                            return response.data;
+                        }
+                        //Else alert error
+                        else {
+                            return alert('Unable to complete request, response ' + response);
+                        }
+                    });
+            }; 
+    
+    
+    
+    
    // To present answers
     service.setAnswers = function(answers)
     {
